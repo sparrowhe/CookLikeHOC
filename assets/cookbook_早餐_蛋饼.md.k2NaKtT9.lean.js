@@ -1,0 +1,1 @@
+import{_ as a,c as l,o,a2 as e}from"./chunks/framework.wERSFrVX.js";const f=JSON.parse('{"title":"蛋饼","description":"","frontmatter":{},"headers":[],"relativePath":"cookbook/早餐/蛋饼.md","filePath":"cookbook/早餐/蛋饼.md"}'),t={name:"cookbook/早餐/蛋饼.md"},i=e("",5),r=[i];function s(_,c,n,d,h,u){return o(),l("div",null,r)}const k=a(t,[["render",s]]);export{f as __pageData,k as default};

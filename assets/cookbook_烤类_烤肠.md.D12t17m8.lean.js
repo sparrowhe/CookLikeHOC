@@ -1,0 +1,1 @@
+import{_ as a,c as e,o,a2 as t}from"./chunks/framework.wERSFrVX.js";const f=JSON.parse('{"title":"烤肠","description":"","frontmatter":{},"headers":[],"relativePath":"cookbook/烤类/烤肠.md","filePath":"cookbook/烤类/烤肠.md"}'),r={name:"cookbook/烤类/烤肠.md"},l=t("",5),i=[l];function _(c,n,s,d,h,u){return o(),e("div",null,i)}const k=a(r,[["render",_]]);export{f as __pageData,k as default};
